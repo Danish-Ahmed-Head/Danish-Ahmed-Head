@@ -22,7 +22,7 @@ Applied AI Engineer based in Karachi, Pakistan. I design and deploy production A
 
 | Project | What it is | Impact |
 |---|---|---|
-| **OpenClaw** · Stevie J Travel Inc. (US) | 24/7 AI publishing assistant for a travel publisher. Telegram bot + Claude API on a hardened VPS. | **27 features in 3 days** (vs. a 2-week estimate). Catalogue intelligence over **1,015+ guides**, royalty monitoring across 10 platforms, running in production. |
+| **OpenClaw** · Stevie J Travel Inc. (US) | 24/7 AI publishing assistant for a travel publisher. Telegram bot + Claude API on a hardened VPS. | **27 features in 3 days** (vs. a 2-week estimate). Catalogue intelligence over **1,085+ guides**, royalty monitoring across 10 platforms, running in production. |
 | **EasyWood WhatsApp Agent** · Sharpen-AI (Latvia) | Production WhatsApp AI agent using n8n + Meta Cloud API for a European e-commerce business. | Lead qualification, live inventory lookup, and PDF offer generation with **zero human intervention** for standard orders. |
 | **Blink** · RAG Policy Assistant | Offline retrieval-augmented assistant for policy lookup (FAISS + LLaMA Phi-3, FastAPI, RBAC). | **Top 3** at the KIET FYP Showcase 2025. **70% faster lookups** and **20% higher answer accuracy** vs a keyword baseline, in internal tests. |
 | **AQI Forecasting** · 10Pearls | Serverless ML system for 72-hour air-quality forecasting with automated retraining. | Ridge Regression, **RMSE 9.14 · MAE 7.53 · R² 0.741**. Hourly pipelines + daily retraining via GitHub Actions. |
